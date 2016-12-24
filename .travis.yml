@@ -1,0 +1,24 @@
+language: node_js
+node_js: stable
+branches:
+  only:
+  - master
+before_install:
+- export TZ='Asia/Shanghai'
+- npm install -g hexo
+- npm install -g hexo-cli
+- git config --global user.name "Adoo"
+- git config --global user.email "Adoo@outlook.com"
+
+install:
+- npm install
+script:
+- git submodule init
+- git submodule update
+- hexo clean && hexo g
+after_success:
+- cd ./public
+- git init
+- git add .
+- git commit -m "Travis Ci auto deploy"
+- git push --force --quiet "https://${GH_TOKEN}@github.com/M-Adoo/pano-blog.git" master:gh-pages
