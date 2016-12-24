@@ -17,7 +17,6 @@ install:
 script:
 - git submodule init
 - git submodule update
-- cd ./public
 - hexo clean && hexo g
 
 after_success:
