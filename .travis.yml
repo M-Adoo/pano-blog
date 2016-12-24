@@ -3,6 +3,7 @@ node_js: stable
 branches:
   only:
   - master
+
 before_install:
 - export TZ='Asia/Shanghai'
 - npm install -g hexo
@@ -12,12 +13,17 @@ before_install:
 
 install:
 - npm install
+
 script:
 - git submodule init
 - git submodule update
+- cd ./pano-blog/public
 - hexo clean && hexo g
+
 after_success:
-- cd ./public
+
+# deploy blog
+- cd ./pano-blog/public
 - git init
 - git add .
 - git commit -m "Travis Ci auto deploy"
