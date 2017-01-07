@@ -1,0 +1,1 @@
+[![Build Status](https://travis-ci.org/M-Adoo/pano-blog.svg?branch=master)](https://travis-ci.org/M-Adoo/pano-blog)
