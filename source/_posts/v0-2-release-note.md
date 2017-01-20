@@ -1,6 +1,7 @@
 ---
 title: v0.2更新日志
 date: 2017-01-20 11:09:26
+categories: 更新日志
 tags: 
     - release-note
     - 社交登陆
