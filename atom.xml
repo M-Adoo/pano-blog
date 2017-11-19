@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>山猫全景博客</title>
+  
+  <subtitle>见得越多，世界越不平凡。</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://blog.union-earth.com/"/>
+  <updated>2017-11-19T05:39:09.957Z</updated>
+  <id>http://blog.union-earth.com/</id>
+  
+  <author>
+    <name>山猫全景</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>v0.11-release-note</title>
+    <link href="http://blog.union-earth.com/2017/11/19/v0-11-release-note.html"/>
+    <id>http://blog.union-earth.com/2017/11/19/v0-11-release-note.html</id>
+    <published>2017-11-19T04:08:23.000Z</published>
+    <updated>2017-11-19T05:39:09.957Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h3 id=&quot;v0-11-0更新日志（2017-11-19）&quot;&gt;&lt;a href=&quot;#v0-11-0更新日志（2017-11-19）&quot; class=&quot;headerlink&quot; title=&quot;v0.11.0更新日志（2017.11.19）&quot;&gt;&lt;/a&gt;v0.11.0更新日志（2017.
+      
+    
+    </summary>
+    
+      <category term="更新日志" scheme="http://blog.union-earth.com/categories/%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97/"/>
+    
+    
+      <category term="release-note" scheme="http://blog.union-earth.com/tags/release-note/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>v0.10更新日志</title>
+    <link href="http://blog.union-earth.com/2017/07/24/v0-10-release-note.html"/>
+    <id>http://blog.union-earth.com/2017/07/24/v0-10-release-note.html</id>
+    <published>2017-07-24T12:50:40.000Z</published>
+    <updated>2017-11-19T05:39:09.957Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h3 id=&quot;v0-10-1更新日志（2017-8-3）&quot;&gt;&lt;a href=&quot;#v0-10-1更新日志（2017-8-3）&quot; class=&quot;headerlink&quot; title=&quot;v0.10.1更新日志（2017.8.3）&quot;&gt;&lt;/a&gt;v0.10.1更新日志（2017.8.3）&lt;/
+      
+    
+    </summary>
+    
+      <category term="更新日志" scheme="http://blog.union-earth.com/categories/%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97/"/>
+    
+    
+      <category term="release-note" scheme="http://blog.union-earth.com/tags/release-note/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>v0.9-release-note</title>
+    <link href="http://blog.union-earth.com/2017/07/14/v0-9-release-note.html"/>
+    <id>http://blog.union-earth.com/2017/07/14/v0-9-release-note.html</id>
+    <published>2017-07-14T13:53:34.000Z</published>
+    <updated>2017-11-19T05:39:09.957Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h3 id=&quot;v0-9-0更新日志-2017-7-14&quot;&gt;&lt;a href=&quot;#v0-9-0更新日志-2017-7-14&quot; class=&quot;headerlink&quot; title=&quot;v0.9.0更新日志 (2017.7.14)&quot;&gt;&lt;/a&gt;v0.9.0更新日志 (2017.7.14)&lt;/
+      
+    
+    </summary>
+    
+      <category term="更新日志" scheme="http://blog.union-earth.com/categories/%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97/"/>
+    
+    
+      <category term="release-note" scheme="http://blog.union-earth.com/tags/release-note/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>v0.8-release-note</title>
+    <link href="http://blog.union-earth.com/2017/07/03/v0-8-release-notes.html"/>
+    <id>http://blog.union-earth.com/2017/07/03/v0-8-release-notes.html</id>
+    <published>2017-07-03T00:20:02.000Z</published>
+    <updated>2017-11-19T05:39:09.957Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;0-8-4-更新日志-（2017-7-9）&quot;&gt;&lt;a href=&quot;#0-8-4-更新日志-（2017-7-9）&quot; class=&quot;headerlink&quot; title=&quot;0.8.4 更新日志 （2017.7.9）&quot;&gt;&lt;/a&gt;0.8.4 更新日志 （2017.7.9）&lt;/
+      
+    
+    </summary>
+    
+      <category term="更新日志" scheme="http://blog.union-earth.com/categories/%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97/"/>
+    
+    
+      <category term="release-note" scheme="http://blog.union-earth.com/tags/release-note/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>v0.7-release-note</title>
+    <link href="http://blog.union-earth.com/2017/06/09/v0-7-release-notes.html"/>
+    <id>http://blog.union-earth.com/2017/06/09/v0-7-release-notes.html</id>
+    <published>2017-06-09T01:35:24.000Z</published>
+    <updated>2017-11-19T05:39:09.957Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h3 id=&quot;v0-7-1更新日志-2017-6-11&quot;&gt;&lt;a href=&quot;#v0-7-1更新日志-2017-6-11&quot; class=&quot;headerlink&quot; title=&quot;v0.7.1更新日志 (2017.6.11)&quot;&gt;&lt;/a&gt;v0.7.1更新日志 (2017.6.11)&lt;/
+      
+    
+    </summary>
+    
+      <category term="更新日志" scheme="http://blog.union-earth.com/categories/%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97/"/>
+    
+    
+      <category term="release-note" scheme="http://blog.union-earth.com/tags/release-note/"/>
+    
+      <category term="界面优化" scheme="http://blog.union-earth.com/tags/%E7%95%8C%E9%9D%A2%E4%BC%98%E5%8C%96/"/>
+    
+      <category term="精选集" scheme="http://blog.union-earth.com/tags/%E7%B2%BE%E9%80%89%E9%9B%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>v0.6更新日志</title>
+    <link href="http://blog.union-earth.com/2017/05/17/v0-6-release-notes.html"/>
+    <id>http://blog.union-earth.com/2017/05/17/v0-6-release-notes.html</id>
+    <published>2017-05-17T06:44:02.000Z</published>
+    <updated>2017-11-19T05:39:09.957Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h3 id=&quot;v0-6-5更新日志-2017-6-5&quot;&gt;&lt;a href=&quot;#v0-6-5更新日志-2017-6-5&quot; class=&quot;headerlink&quot; title=&quot;v0.6.5更新日志 (2017.6.5)&quot;&gt;&lt;/a&gt;v0.6.5更新日志 (2017.6.5)&lt;/h3&gt;&lt;
+      
+    
+    </summary>
+    
+      <category term="更新日志" scheme="http://blog.union-earth.com/categories/%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97/"/>
+    
+    
+      <category term="release-note" scheme="http://blog.union-earth.com/tags/release-note/"/>
+    
+      <category term="大像素" scheme="http://blog.union-earth.com/tags/%E5%A4%A7%E5%83%8F%E7%B4%A0/"/>
+    
+      <category term="界面优化" scheme="http://blog.union-earth.com/tags/%E7%95%8C%E9%9D%A2%E4%BC%98%E5%8C%96/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>v0.5 更新日志</title>
+    <link href="http://blog.union-earth.com/2017/04/25/v0-5-release-note.html"/>
+    <id>http://blog.union-earth.com/2017/04/25/v0-5-release-note.html</id>
+    <published>2017-04-25T04:19:57.000Z</published>
+    <updated>2017-11-19T05:39:09.957Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h3 id=&quot;v0-5-1-更新日志-（2017-5-1&quot;&gt;&lt;a href=&quot;#v0-5-1-更新日志-（2017-5-1&quot; class=&quot;headerlink&quot; title=&quot;v0.5.1 更新日志 （2017.5.1)&quot;&gt;&lt;/a&gt;v0.5.1 更新日志 （2017.5.1)
+      
+    
+    </summary>
+    
+      <category term="更新日志" scheme="http://blog.union-earth.com/categories/%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97/"/>
+    
+    
+      <category term="release-note" scheme="http://blog.union-earth.com/tags/release-note/"/>
+    
+      <category term="点评系统" scheme="http://blog.union-earth.com/tags/%E7%82%B9%E8%AF%84%E7%B3%BB%E7%BB%9F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>v0.4-更新日志</title>
+    <link href="http://blog.union-earth.com/2017/03/11/v0-4-release-note.html"/>
+    <id>http://blog.union-earth.com/2017/03/11/v0-4-release-note.html</id>
+    <published>2017-03-11T04:11:21.000Z</published>
+    <updated>2017-11-19T05:39:09.957Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h3 id=&quot;v0-4-6-更新日志-（2017-4-17&quot;&gt;&lt;a href=&quot;#v0-4-6-更新日志-（2017-4-17&quot; class=&quot;headerlink&quot; title=&quot;v0.4.6 更新日志 （2017.4.17)&quot;&gt;&lt;/a&gt;v0.4.6 更新日志 （2017.4
+      
+    
+    </summary>
+    
+      <category term="更新日志" scheme="http://blog.union-earth.com/categories/%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97/"/>
+    
+    
+      <category term="release-note" scheme="http://blog.union-earth.com/tags/release-note/"/>
+    
+      <category term="打点" scheme="http://blog.union-earth.com/tags/%E6%89%93%E7%82%B9/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>v0.2更新日志</title>
+    <link href="http://blog.union-earth.com/2017/01/20/v0-2-release-note.html"/>
+    <id>http://blog.union-earth.com/2017/01/20/v0-2-release-note.html</id>
+    <published>2017-01-20T03:09:26.000Z</published>
+    <updated>2017-11-19T05:39:09.957Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h3 id=&quot;v0-2-0更新日志&quot;&gt;&lt;a href=&quot;#v0-2-0更新日志&quot; class=&quot;headerlink&quot; title=&quot;v0.2.0更新日志&quot;&gt;&lt;/a&gt;v0.2.0更新日志&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;日期&lt;/strong&gt;： 2017年1月20日&lt;/p&gt;
+&lt;p
+      
+    
+    </summary>
+    
+      <category term="更新日志" scheme="http://blog.union-earth.com/categories/%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97/"/>
+    
+    
+      <category term="release-note" scheme="http://blog.union-earth.com/tags/release-note/"/>
+    
+      <category term="社交登陆" scheme="http://blog.union-earth.com/tags/%E7%A4%BE%E4%BA%A4%E7%99%BB%E9%99%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>常见问题（FAQ）？</title>
+    <link href="http://blog.union-earth.com/2017/01/07/faq.html"/>
+    <id>http://blog.union-earth.com/2017/01/07/faq.html</id>
+    <published>2017-01-07T06:27:06.000Z</published>
+    <updated>2017-11-19T05:39:09.957Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;strong&gt;山猫全景是什么？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;山猫全景是致力于为摄影师、设计师创作和分享全景作品提供最友好，高效服务的全景平台。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;山猫全景现在是什么状态？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;现在还处于早期的内测阶段，每周都会有
+      
+    
+    </summary>
+    
+    
+      <category term="faq" scheme="http://blog.union-earth.com/tags/faq/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>V1.0 路线图</title>
+    <link href="http://blog.union-earth.com/2016/12/24/roadmap.html"/>
+    <id>http://blog.union-earth.com/2016/12/24/roadmap.html</id>
+    <published>2016-12-24T10:58:08.000Z</published>
+    <updated>2017-11-19T05:39:09.957Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;1.0正式版功能规划：&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&quot;text-align:center&quot;&gt;功能&lt;/th&gt;
+&lt;th style=&quot;text-align:center&quot;&gt;版本计划&lt;/th&gt;
+&lt;th style=&quot;text-align:
+      
+    
+    </summary>
+    
+    
+      <category term="milestone" scheme="http://blog.union-earth.com/tags/milestone/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>v0.1~v0.1.2更新日志</title>
+    <link href="http://blog.union-earth.com/2016/12/24/v0-1-release-notes.html"/>
+    <id>http://blog.union-earth.com/2016/12/24/v0-1-release-notes.html</id>
+    <published>2016-12-24T08:12:17.000Z</published>
+    <updated>2017-11-19T05:39:09.957Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h3 id=&quot;v0-1-2更新日志&quot;&gt;&lt;a href=&quot;#v0-1-2更新日志&quot; class=&quot;headerlink&quot; title=&quot;v0.1.2更新日志&quot;&gt;&lt;/a&gt;v0.1.2更新日志&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;日期&lt;/strong&gt;： 2017年1月13日&lt;/p&gt;
+&lt;p
+      
+    
+    </summary>
+    
+      <category term="更新日志" scheme="http://blog.union-earth.com/categories/%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97/"/>
+    
+    
+      <category term="release-note" scheme="http://blog.union-earth.com/tags/release-note/"/>
+    
+  </entry>
+  
+</feed>
