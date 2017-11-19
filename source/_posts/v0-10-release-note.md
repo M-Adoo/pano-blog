@@ -1,6 +1,7 @@
 ---
 title: v0.10更新日志
 date: 2017-07-24 20:50:40
+categories: 更新日志
 tags:
     - release-note
 ---

@@ -1,6 +1,7 @@
 ---
 title: v0.7-release-note
 date: 2017-06-09 09:35:24
+categories: 更新日志
 tags:
     - release-note
     - 精选集

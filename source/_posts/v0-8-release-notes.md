@@ -1,6 +1,7 @@
 ---
 title: v0.8-release-note
 date: 2017-07-03 08:20:02
+categories: 更新日志
 tags:
     - release-note
 ---

@@ -1,6 +1,7 @@
 ---
 title: v0.6更新日志
 date: 2017-05-17 14:44:02
+categories: 更新日志
 tags: 
     - release-note
     - 大像素
