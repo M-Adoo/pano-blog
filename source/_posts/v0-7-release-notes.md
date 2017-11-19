@@ -2,6 +2,7 @@
 title: v0.7-release-note
 date: 2017-06-09 09:35:24
 tags:
+    - release-note
     - 精选集
     - 界面优化
 ---

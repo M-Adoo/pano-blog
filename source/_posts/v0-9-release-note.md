@@ -2,6 +2,7 @@
 title: v0.9-release-note
 date: 2017-07-14 21:53:34
 tags:
+    - release-note
 ---
 
 ### v0.9.0更新日志 (2017.7.14)
